@@ -1,0 +1,38 @@
+C:\СТ911\works\work\1\1\bin\Release\1.exe.config
+C:\СТ911\works\work\1\1\bin\Release\1.exe
+C:\СТ911\works\work\1\1\bin\Release\1.pdb
+C:\СТ911\works\work\1\1\obj\Release\1.csprojAssemblyReference.cache
+C:\СТ911\works\work\1\1\obj\Release\Interop.MDACVer.dll
+C:\СТ911\works\work\1\1\obj\Release\1.csproj.ResolveComReference.cache
+C:\СТ911\works\work\1\1\obj\Release\_1.CheckSale.resources
+C:\СТ911\works\work\1\1\obj\Release\_1.Auth_Form.resources
+C:\СТ911\works\work\1\1\obj\Release\_1.Form2.resources
+C:\СТ911\works\work\1\1\obj\Release\_1.Form3.resources
+C:\СТ911\works\work\1\1\obj\Release\_1.Form4.resources
+C:\СТ911\works\work\1\1\obj\Release\_1.Properties.Resources.resources
+C:\СТ911\works\work\1\1\obj\Release\_1.SellingTours.resources
+C:\СТ911\works\work\1\1\obj\Release\_1.UploadFrom.resources
+C:\СТ911\works\work\1\1\obj\Release\_1.VP.resources
+C:\СТ911\works\work\1\1\obj\Release\1.csproj.GenerateResource.cache
+C:\СТ911\works\work\1\1\obj\Release\1.csproj.CoreCompileInputs.cache
+C:\СТ911\works\work\1\1\obj\Release\1.exe
+C:\СТ911\works\work\1\1\obj\Release\1.pdb
+C:\Users\forwo\Desktop\Программирование\Full Product\works\work\1\1\bin\Release\1.exe.config
+C:\Users\forwo\Desktop\Программирование\Full Product\works\work\1\1\bin\Release\1.exe
+C:\Users\forwo\Desktop\Программирование\Full Product\works\work\1\1\bin\Release\1.pdb
+C:\Users\forwo\Desktop\Программирование\Full Product\works\work\1\1\obj\Release\1.csprojAssemblyReference.cache
+C:\Users\forwo\Desktop\Программирование\Full Product\works\work\1\1\obj\Release\Interop.MDACVer.dll
+C:\Users\forwo\Desktop\Программирование\Full Product\works\work\1\1\obj\Release\1.csproj.ResolveComReference.cache
+C:\Users\forwo\Desktop\Программирование\Full Product\works\work\1\1\obj\Release\_1.CheckSale.resources
+C:\Users\forwo\Desktop\Программирование\Full Product\works\work\1\1\obj\Release\_1.Auth_Form.resources
+C:\Users\forwo\Desktop\Программирование\Full Product\works\work\1\1\obj\Release\_1.Form2.resources
+C:\Users\forwo\Desktop\Программирование\Full Product\works\work\1\1\obj\Release\_1.Form3.resources
+C:\Users\forwo\Desktop\Программирование\Full Product\works\work\1\1\obj\Release\_1.Form4.resources
+C:\Users\forwo\Desktop\Программирование\Full Product\works\work\1\1\obj\Release\_1.Properties.Resources.resources
+C:\Users\forwo\Desktop\Программирование\Full Product\works\work\1\1\obj\Release\_1.SellingTours.resources
+C:\Users\forwo\Desktop\Программирование\Full Product\works\work\1\1\obj\Release\_1.UploadFrom.resources
+C:\Users\forwo\Desktop\Программирование\Full Product\works\work\1\1\obj\Release\_1.VP.resources
+C:\Users\forwo\Desktop\Программирование\Full Product\works\work\1\1\obj\Release\1.csproj.GenerateResource.cache
+C:\Users\forwo\Desktop\Программирование\Full Product\works\work\1\1\obj\Release\1.csproj.CoreCompileInputs.cache
+C:\Users\forwo\Desktop\Программирование\Full Product\works\work\1\1\obj\Release\1.exe
+C:\Users\forwo\Desktop\Программирование\Full Product\works\work\1\1\obj\Release\1.pdb
